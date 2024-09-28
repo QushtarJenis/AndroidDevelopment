@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">kaspi.kz</string>
+    <string name="settings">Баптау</string>
+    <string name="add_photo">Фото қосу</string>
+    <string name="push_message">Push-xабарламалар</string>
+    <string name="language_menu">Қосымшаның тілі</string>
+    <string name="current_language">Қазақша</string>
+    <string name="change_short_code">Қосымшаға кіру кодын өзгерту</string>
+    <string name="use_touch_id">Face ID көмегімен кіру</string>
+    <string name="change_phone">Телефон нөмірін өзгерту</string>
+    <string name="quit">Шығу</string>
+    <string name="register_profile">Тіркеу жазбаңызды</string>
+    <string name="here_place">осы жерден</string>
+    <string name="can_delete">өшіре аласыз</string>
+
+</resources>
